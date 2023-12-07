@@ -19,7 +19,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
-        <spring-data-neo4j.version>4.0.0.RELEASE</spring-data-neo4j.version>
+        <spring-data-neo4j.version>6.3.11</spring-data-neo4j.version>
     </properties>
 
     <dependencies>
